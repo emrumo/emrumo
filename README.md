@@ -2,8 +2,8 @@
 
 
 <!-- social media -->
-<a href="https://www.linkedin.com/in/emilio-ruiz-moreno-43438b230/" target="_blank"><img height="25" src="https://img.icons8.com/color/344/linkedin.png"/></a>
-<a href="https://scholar.google.com/citations?user=Q5mWKwoAAAAJ&hl=en" target="_blank"><img height="25" src="https://img.icons8.com/color/344/google-scholar--v3.png"/></a>
+<a href="https://www.linkedin.com/in/emilio-ruiz-moreno-43438b230/"><img height="25" src="https://img.icons8.com/color/344/linkedin.png"/></a>
+<a href="https://scholar.google.com/citations?user=Q5mWKwoAAAAJ&hl=en"><img height="25" src="https://img.icons8.com/color/344/google-scholar--v3.png"/></a>
 
 <br/>
 
