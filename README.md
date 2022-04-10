@@ -11,10 +11,6 @@
 My name is Emilio Ruiz-Moreno. \
 I am mostly interested in **optimization theory**, **machine learning** and <code><img height="20" src="https://img.icons8.com/color/344/python--v1.png"></code>.
 
-<br/> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=emrumo&show_icons=true&theme=gotham"/>
-
 <br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=emrumo.emrumo)
