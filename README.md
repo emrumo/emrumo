@@ -8,7 +8,7 @@
 <br/>
 
 My name is Emilio Ruiz-Moreno \
-I am mostly interested in **optimization theory**, **machine learning** and **programming** 
+I am mostly interested in **machine learning** and **programming** 
 <code><img height="30" src="https://img.icons8.com/color/344/python--v1.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/452/git.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/344/docker.png"></code>
@@ -16,4 +16,4 @@ I am mostly interested in **optimization theory**, **machine learning** and **pr
 
 <br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=emrumo.emrumo)
+
